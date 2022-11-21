@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Для запуска скрипта использовать следующую команду:
 
 ```
-python main.py
+python run.py
 ```
 
 # Цель проекта
